@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "progress": 65,
+    "lessons": 20,
+    "lessonItems": [
+      { "id": 101, "title": "Introduction", "isCompleted": true },
+      { "id": 102, "title": "Variables & Data Types", "isCompleted": true },
+      { "id": 103, "title": "Functions", "isCompleted": false },
+      { "id": 104, "title": "OOP", "isCompleted": false }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "progress": 40,
+    "lessons": 16,
+    "lessonItems": [
+      { "id": 201, "title": "Introduction", "isCompleted": true },
+      { "id": 202, "title": "Prompt Engineering", "isCompleted": false },
+      { "id": 203, "title": "Embeddings", "isCompleted": false },
+      { "id": 204, "title": "RAG", "isCompleted": false },
+      { "id": 205, "title": "Evaluation", "isCompleted": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "progress": 25,
+    "lessons": 28,
+    "lessonItems": [
+      { "id": 301, "title": "Web Fundamentals", "isCompleted": true },
+      { "id": 302, "title": "REST APIs", "isCompleted": false },
+      { "id": 303, "title": "Databases", "isCompleted": false },
+      { "id": 304, "title": "Authentication", "isCompleted": false }
+    ]
+  }
+]
